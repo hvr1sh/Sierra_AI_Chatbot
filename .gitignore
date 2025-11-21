@@ -11,8 +11,9 @@ build/
 
 # Environment variables
 .env
-.env.local
-.env.production
+
+.chroma_db/
+.claude/
 
 # IDE
 .vscode/
@@ -38,3 +39,4 @@ venv/
 
 # RAG data
 backend/vector_store.json
+
