@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:sierra.ai)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

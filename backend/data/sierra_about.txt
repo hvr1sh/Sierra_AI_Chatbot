@@ -1,0 +1,96 @@
+About Sierra AI
+
+Company Overview
+
+Sierra is the conversational AI platform that makes every customer interaction extraordinary. We help businesses deploy AI agents that understand, assist, and delight customers at scale.
+
+Founded by Bret Taylor (former Co-CEO of Salesforce, former CTO of Facebook) and Clay Bavor (former VP at Google, led Google Labs), Sierra brings together decades of experience in building products used by billions of people.
+
+Our Mission
+
+Elevate every customer experience through conversational AI that is helpful, natural, and genuinely useful.
+
+We believe that customer service shouldn't feel like a chore. It should be effortless, personalized, and actually solve problems. AI agents are the key to making this vision a reality.
+
+What We Do
+
+Sierra provides an end-to-end platform for building, deploying, and managing conversational AI agents. Our platform enables businesses to:
+
+• Create AI agents that understand customer intent and provide accurate answers
+• Maintain brand voice and personality across all interactions
+• Seamlessly hand off complex issues to human agents when needed
+• Integrate with existing tools (CRM, knowledge bases, helpdesk systems)
+• Monitor performance and continuously improve agent quality
+• Scale customer support without sacrificing quality
+
+Our Technology
+
+Sierra's platform is built on the latest advances in large language models, including Claude, GPT-4, and proprietary fine-tuning. We've developed unique techniques for:
+
+• Grounding agent responses in verified company knowledge
+• Maintaining conversation context across complex multi-turn dialogues
+• Ensuring accuracy and reducing hallucinations
+• Optimizing for both helpfulness and safety
+• Evaluating agent performance across multiple quality dimensions
+
+Industries We Serve
+
+Our customers span multiple sectors:
+
+• E-commerce and Retail: Product recommendations, order tracking, returns
+• SaaS and Technology: Technical support, onboarding, feature education
+• Financial Services: Account questions, transaction help, fraud support
+• Healthcare: Appointment scheduling, insurance questions, patient support
+• Travel and Hospitality: Booking assistance, itinerary changes, recommendations
+
+Company Culture and Values
+
+Customer Obsession
+We start with the customer and work backwards. Every feature, every decision, every line of code is evaluated through the lens of customer value.
+
+Velocity and Iteration
+We move fast. We ship often. We learn from real usage and iterate quickly. We believe in progress over perfection.
+
+Technical Excellence
+We're building infrastructure that will power millions of conversations. Quality, reliability, and scalability are non-negotiable.
+
+Radical Transparency
+We share context broadly, communicate openly, and trust our team with the full picture. Good decisions require good information.
+
+Ownership Culture
+Everyone at Sierra is an owner. We take responsibility for outcomes, not just tasks. We see things through.
+
+The Team
+
+Our team includes AI researchers, product designers, engineers, and business leaders from companies like Google, Meta, Salesforce, Stripe, and leading AI labs.
+
+We're a small, focused team that believes in hiring exceptional people and giving them the autonomy to do their best work.
+
+Funding and Backers
+
+Sierra is backed by leading investors including Sequoia Capital and Benchmark, with participation from prominent founders and AI researchers.
+
+Our Approach to AI Safety
+
+We take AI safety seriously. Our platform includes:
+
+• Content filters and safety guardrails
+• Human oversight and escalation protocols
+• Transparency about AI agent capabilities and limitations
+• Privacy-first data handling
+• Regular audits and red-teaming exercises
+
+We believe AI should augment human capabilities, not replace human judgment in critical situations.
+
+Why Sierra?
+
+AI agents will fundamentally transform how businesses interact with customers. We're at the beginning of this transformation, and the opportunity is enormous.
+
+If you want to work on cutting-edge AI technology, solve real customer problems, and be part of a founding team building something that matters - Sierra is the place to be.
+
+Contact
+
+Website: https://sierra.ai
+Email: contact@sierra.ai
+Careers: https://sierra.ai/careers
+Location: San Francisco, CA (with remote team members)
