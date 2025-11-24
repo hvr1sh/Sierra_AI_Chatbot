@@ -31,7 +31,7 @@ export const ChatContainer = () => {
 
     try {
       const response = await sendChatMessage(content);
-
+      console.log(response)
       const assistantMessage = {
         role: 'assistant',
         content: response.answer,

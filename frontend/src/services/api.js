@@ -1,10 +1,11 @@
 export async function sendChatMessage(message) {
-  const response = await fetch('/api/chat', {
-    method: 'POST',
+  const response = await fetch('/api/ping', {
+    method: 'GET',
     headers: {
       'Content-Type': 'application/json',
+      'Message': message
     },
-    body: JSON.stringify({ message }),
+    // body: JSON.stringify({ message }),
   });
 
   if (!response.ok) {
@@ -12,7 +13,7 @@ export async function sendChatMessage(message) {
     throw new Error(error.error || 'Failed to send message');
   }
 
-  return response.json();
+  return response;
 }
 
 export async function checkHealth() {
